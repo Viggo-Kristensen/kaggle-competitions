@@ -8,7 +8,7 @@ This project is my solution to the Kaggle competition "Spaceship Titanic". The g
   * Replacing missing numerical values with the median
   * Replacing missing categorical data with "unknown"
 * Feature engineering
-  * new column "TotalSpend that sums the money spend on RoomService, FoodCourt, ShoppingMall, Spa, VRDeck.
+  * new column "TotalSpend" that sums the money spent on RoomService, FoodCourt, ShoppingMall, Spa, VRDeck.
   * Splitting the "Cabin" column into 3 new columns Deck, Num, Side.
 * Model training
   * Logistic regression
