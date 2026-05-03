@@ -22,7 +22,7 @@ The goal is to predict which passengers were transported to another dimension ba
 
 ## Results
 
-* Accuracy: **78.7%**
+* Accuracy: **78.8%**
 * Kaggle placement: **#1858**
 
 ## How to Run
