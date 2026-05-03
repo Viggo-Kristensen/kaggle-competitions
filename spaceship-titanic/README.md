@@ -1,7 +1,9 @@
 ## Overview
-This project is a
 
-## Approach
+This project is my solution to the Kaggle competition "Spaceship Titanic". The goal is to predict which passengers are transported to a different dimension. Predictions are made from a set of personal records recovered from the spaceship's damaged computer.
+
+## Approach 
+
 * Data cleaning
   * Replacing missing numerical values with the median
   * Replacing missing categorical data with "unknown"
@@ -12,12 +14,15 @@ This project is a
   * Logistic regression
 
 ## Results
+
 * Accuracy: 78.7%
 * placement: #1858
 
 ## How to Run
+
 1. Upload `kaggle.json`
 2. Run all cells
 
 ## Output
+
 `submission/submission.csv`
