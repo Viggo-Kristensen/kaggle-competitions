@@ -23,7 +23,7 @@ The goal is to predict what test score a student gets on a scale from 0-100.
 
 ## Results
 
-* RMSE: **8.708%**
+* RMSE: **8.708**
 * Kaggle placement: **#922**
 
 ## How to Run
