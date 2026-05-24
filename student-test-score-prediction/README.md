@@ -15,7 +15,7 @@ The goal is to predict what test score a student gets on a scale from 0-100.
 
 * **Feature engineering**
 
-  * Used the competition winners custom features which were created using genetic programming.
+  * Used the competition winner's custom features which were created using genetic programming.
 
 * **Model**
 
