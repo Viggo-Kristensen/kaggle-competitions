@@ -1,7 +1,7 @@
 ## Overview
 
-This project is my solution to the Kaggle competition *"Spaceship Titanic"*.
-The goal is to predict which passengers were transported to another dimension based on personal and behavioral data.
+This project is my solution to the Kaggle competition *"Predict Student Test Scores"*.
+The goal is to predict what test score a student gets on a scale from 0-100.
 
 ## Approach
 
