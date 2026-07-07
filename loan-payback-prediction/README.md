@@ -15,7 +15,9 @@ The goal is to predict whether or not a borrower will pay back their loan.
   * Performed a permutation importance analysis to deduct the raw features that were the best predictors.
 
   * Feature engineering choices were found through a bruteforce validation loop trying different operations between feature pairs created from the 3 best performing in the permutation importance analysis.
-    
+
+* **Hyperparameters**
+  * Hyperparameters were found through a hyperparameter optimization performed using the optuna library.
 * **Model**
 
   * XGBoost for classification
